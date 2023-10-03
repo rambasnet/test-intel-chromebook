@@ -1,4 +1,4 @@
-def answer() -> None:
+def answer() -> str:
     return 'Hello World!'
 
 
